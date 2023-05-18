@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="coldgunOut" type="id" />
+    <item name="imageButtonColdgun" type="id" />
+    <item name="imageButtonFiregun" type="id" />
+    <item name="imageButtonHe" type="id" />
+    <item name="firegunList" type="id" />
+    <item name="heList" type="id" />
+    <item name="heheList" type="id" />
+</resources>
